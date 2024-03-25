@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csbyabid
+- 👋 Hi, I’m @csbyabid a.k.a Abid Hasan Saem
 - 👀 I’m interested in exploring new technologies, Ai and Ml.
 - 🌱 I’m currently learning web development and improving my coding skills.
 - 💞️ I’m looking to collaborate on exciting projects that involve creative solutions and bring positive change.
